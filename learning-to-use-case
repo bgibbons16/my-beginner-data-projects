@@ -1,5 +1,5 @@
 /*This short project is from the Intro to SQL course from Khan Academy. It gave me the opportunity to 
-practice using the CASE function for the first time. It involved creating a gradebook table for primary school students
+practice using the CASE statement for the first time. It involved creating a gradebook table for primary school students
 and querying it to count how many of each letter grade were earned.*/
 
 CREATE TABLE student_grades (
